@@ -1,6 +1,6 @@
 {
   "name": "raxor",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A seekable (random-access) XSALSA20 xor stream",
   "main": "index.js",
   "dependencies": {
