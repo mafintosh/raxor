@@ -1,0 +1,28 @@
+{
+  "name": "random-access-xsalsa20",
+  "version": "0.0.0",
+  "description": "A seekable (random-access) XSALSA20 xor stream",
+  "main": "index.js",
+  "dependencies": {
+    "sodium-native": "^3.2.0",
+    "uint64be": "^3.0.0",
+    "uint64le": "^1.0.0"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3",
+    "tape": "^5.0.1"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/random-access-xsalsa20.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/random-access-xsalsa20/issues"
+  },
+  "homepage": "https://github.com/mafintosh/random-access-xsalsa20"
+}
