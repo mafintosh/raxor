@@ -1,5 +1,5 @@
 {
-  "name": "random-access-xsalsa20",
+  "name": "raxor",
   "version": "0.0.0",
   "description": "A seekable (random-access) XSALSA20 xor stream",
   "main": "index.js",
@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/random-access-xsalsa20.git"
+    "url": "https://github.com/mafintosh/raxor.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/random-access-xsalsa20/issues"
+    "url": "https://github.com/mafintosh/raxor/issues"
   },
-  "homepage": "https://github.com/mafintosh/random-access-xsalsa20"
+  "homepage": "https://github.com/mafintosh/raxor"
 }
